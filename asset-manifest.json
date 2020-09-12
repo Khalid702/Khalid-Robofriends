@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/khalid-Robofriends/static/css/main.dbfec5d5.chunk.css",
-    "main.js": "/khalid-Robofriends/static/js/main.60b322fd.chunk.js",
-    "main.js.map": "/khalid-Robofriends/static/js/main.60b322fd.chunk.js.map",
-    "runtime-main.js": "/khalid-Robofriends/static/js/runtime-main.665b3558.js",
-    "runtime-main.js.map": "/khalid-Robofriends/static/js/runtime-main.665b3558.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/khalid-Robofriends/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.cab51068.chunk.js": "/khalid-Robofriends/static/js/2.cab51068.chunk.js",
-    "static/js/2.cab51068.chunk.js.map": "/khalid-Robofriends/static/js/2.cab51068.chunk.js.map",
-    "index.html": "/khalid-Robofriends/index.html",
-    "precache-manifest.98cf6ed296a71338d4c7ebdcf06aa7d5.js": "/khalid-Robofriends/precache-manifest.98cf6ed296a71338d4c7ebdcf06aa7d5.js",
-    "service-worker.js": "/khalid-Robofriends/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/khalid-Robofriends/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.dbfec5d5.chunk.css.map": "/khalid-Robofriends/static/css/main.dbfec5d5.chunk.css.map",
-    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/khalid-Robofriends/static/js/2.cab51068.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/khalid-Robofriends/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/Khalid-Robofriends/static/css/main.798580bb.chunk.css",
+    "main.js": "/Khalid-Robofriends/static/js/main.160099d5.chunk.js",
+    "main.js.map": "/Khalid-Robofriends/static/js/main.160099d5.chunk.js.map",
+    "runtime-main.js": "/Khalid-Robofriends/static/js/runtime-main.b33c4ab2.js",
+    "runtime-main.js.map": "/Khalid-Robofriends/static/js/runtime-main.b33c4ab2.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Khalid-Robofriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/Khalid-Robofriends/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/Khalid-Robofriends/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/Khalid-Robofriends/index.html",
+    "precache-manifest.da491b04757016da4600aea147a48d93.js": "/Khalid-Robofriends/precache-manifest.da491b04757016da4600aea147a48d93.js",
+    "service-worker.js": "/Khalid-Robofriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Khalid-Robofriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.798580bb.chunk.css.map": "/Khalid-Robofriends/static/css/main.798580bb.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/Khalid-Robofriends/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Khalid-Robofriends/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.665b3558.js",
+    "static/js/runtime-main.b33c4ab2.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.cab51068.chunk.js",
-    "static/css/main.dbfec5d5.chunk.css",
-    "static/js/main.60b322fd.chunk.js"
+    "static/css/main.798580bb.chunk.css",
+    "static/js/main.160099d5.chunk.js"
   ]
 }
