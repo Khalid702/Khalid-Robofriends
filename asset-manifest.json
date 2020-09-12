@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Khalid-Robofriends/static/css/main.798580bb.chunk.css",
-    "main.js": "/Khalid-Robofriends/static/js/main.160099d5.chunk.js",
-    "main.js.map": "/Khalid-Robofriends/static/js/main.160099d5.chunk.js.map",
+    "main.js": "/Khalid-Robofriends/static/js/main.d1de34e2.chunk.js",
+    "main.js.map": "/Khalid-Robofriends/static/js/main.d1de34e2.chunk.js.map",
     "runtime-main.js": "/Khalid-Robofriends/static/js/runtime-main.b33c4ab2.js",
     "runtime-main.js.map": "/Khalid-Robofriends/static/js/runtime-main.b33c4ab2.js.map",
     "static/css/2.3c03f26f.chunk.css": "/Khalid-Robofriends/static/css/2.3c03f26f.chunk.css",
     "static/js/2.cab51068.chunk.js": "/Khalid-Robofriends/static/js/2.cab51068.chunk.js",
     "static/js/2.cab51068.chunk.js.map": "/Khalid-Robofriends/static/js/2.cab51068.chunk.js.map",
     "index.html": "/Khalid-Robofriends/index.html",
-    "precache-manifest.da491b04757016da4600aea147a48d93.js": "/Khalid-Robofriends/precache-manifest.da491b04757016da4600aea147a48d93.js",
+    "precache-manifest.4107f4bcbcecd64b805935f27e52b94d.js": "/Khalid-Robofriends/precache-manifest.4107f4bcbcecd64b805935f27e52b94d.js",
     "service-worker.js": "/Khalid-Robofriends/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/Khalid-Robofriends/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.798580bb.chunk.css.map": "/Khalid-Robofriends/static/css/main.798580bb.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.cab51068.chunk.js",
     "static/css/main.798580bb.chunk.css",
-    "static/js/main.160099d5.chunk.js"
+    "static/js/main.d1de34e2.chunk.js"
   ]
 }
